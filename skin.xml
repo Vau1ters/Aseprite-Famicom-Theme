@@ -71,8 +71,8 @@
     <color id="tab_active_text" value="#ffffff" />
     <color id="tab_active_face" value="#8c1b1f" />
     <color id="splitter_normal_face" value="#8c1b1f" />
-    <color id="scrollbar_bg_face" value="#ffffff" />
-    <color id="scrollbar_thumb_face" value="#000000" />
+    <color id="scrollbar_bg_face" value="#f5e6d7" />
+    <color id="scrollbar_thumb_face" value="#ffffff" />
     <color id="popup_window_border" value="#000000" />
     <color id="tooltip_text" value="#000000" />
     <color id="tooltip_face" value="#ffff7d" />
